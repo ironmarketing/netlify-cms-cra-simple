@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: talves/netlify-cms-cra-simple
 
 media_folder: "public/images"
